@@ -1,0 +1,43 @@
+{
+  "templateId": "trust-navy",
+  "plan": "otameshi",
+  "orderId": "order_1776266588279_ai9hmz",
+  "siteUrl": "https://shikumiya-shikumiya-saaaaaaa.vercel.app",
+  "company": {
+    "name": "株式会社 しくみん",
+    "tagline": "",
+    "description": "",
+    "phone": "08018837917",
+    "email": "ryoya112@gmail.com",
+    "address": "",
+    "hours": "",
+    "since": "",
+    "ceo": "",
+    "bio": "",
+    "domain": "shikumiya-shikumiya-saaaaaaa.vercel.app"
+  },
+  "projects": [],
+  "strengths": [],
+  "style": {
+    "colors": {
+      "primary": "#1B3A5C",
+      "accent": "#C8A96E",
+      "background": "#F0F4F8",
+      "text": "#1B3A5C",
+      "textMuted": "#6B7B8D",
+      "border": "#D1D9E3"
+    },
+    "fonts": {
+      "heading": "'Noto Sans JP', sans-serif",
+      "body": "'Noto Sans JP', sans-serif"
+    },
+    "sizes": {
+      "heading": "lg",
+      "body": "md"
+    },
+    "weights": {
+      "heading": "bold",
+      "body": "normal"
+    }
+  }
+}
